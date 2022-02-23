@@ -9,7 +9,7 @@ public class Main {
 
         Curso curso1 = new Curso();
         curso1.setTitulo("Java");
-        curso1.setDescricao("curso de java.");
+        curso1.setDescricao("curso de java");
         curso1.setCargaHoraria(11);
 
         Curso curso2 = new Curso();
